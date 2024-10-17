@@ -68,3 +68,5 @@ st.table(df_filtered_city.head())
 #intale en la terminal 
 #pip install pandas matplotlib streamlit
 #streamlit run myapp.py--> nombre de sChao archivo .py
+#pip install pipreqs
+# pipreqs . 
